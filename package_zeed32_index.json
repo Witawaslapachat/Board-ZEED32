@@ -1,0 +1,24 @@
+{
+  "packages": [
+    {
+      "name": "zeed32",
+      "platforms": [
+        {
+          "name": "ZEED32 Boards",
+          "architecture": "esp32",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://witawaslapachat.github.io/ZEED32-board_1.0/files/zeed32-1.0.0.tar.bz2",
+          "archiveFileName": "zeed32-1.0.0.tar.bz2",
+          "checksum": "SHA-256:B1F27C8729729D535060D0394819C7B24BFF8AB994F768FB37C72C0440570552",
+          "size": "814339271",
+          "boards": [
+            { "name": "ZEED32" }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
